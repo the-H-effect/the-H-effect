@@ -19,7 +19,24 @@ I am open to new opportunities **(Skills: ETL, SQL, PowerBI, & Tableau)**, where
 
 ## [Project 1: Alberta Health Services](https://github.com/the-H-effect/Analysis-Alberta-Health-Services)
 
-## [Project 2: Edmonton's Crime Statistics] (https://github.com/the-H-effect/Analysis-Edmonton-Crime-Statistics)
+## [Project 2: Edmonton's Crime Statistics](https://github.com/the-H-effect/Analysis-Edmonton-Crime-Statistics)
+
+
+Edmonton Crime statistics was analyzed for a 10 year period of 2009 to 2019. **Click on title Header for full report.**
+
+The following indicators was analyzed to give valuable trends and insights.
+* Violent crime: Homicide, Sexual assault, Assault and Robbery,
+* Property crime: Break & Enter, Theft of vehicle, Theft from vehicle and Theft over $5,000,
+* Social Disorders,
+* Domestic violence, and 
+* Impaired driving incidents.
+
+Other important indicators and KPIs analyzed are Crime Severity Index (CSI), Weighted Clearance Rate (WCR), Calls received by emergency services, and Complaint/Satisfaction Percentage. 
+
+The visualizations gives valuable insights on Edmonton's crime indicators. All KPIs showed a decrease for the year 2011 - 2014. Analysis like these are useful in providing valuable insights to Edmonton Police Services to help in resource allocation to the different neighborhoods, and to put preventive measures in place to make for a safer city.
+
+##### Skills & Tools
+ETL | Tableau | 
 
 ## Project 3: Canada's Disaster Database
 
