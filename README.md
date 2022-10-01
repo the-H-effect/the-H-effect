@@ -35,7 +35,7 @@ Other important indicators and KPIs analyzed are Crime Severity Index (CSI), Wei
 
 The visualizations gives valuable insights on Edmonton's crime indicators. All KPIs showed a decrease for the year 2011 - 2014. Analysis like these are useful in providing valuable insights to Edmonton Police Services to help in resource allocation to the different neighborhoods, and to put preventive measures in place to make for a safer city.
 
-##### Skills & Tools
+#### Skills & Tools
 ETL | Tableau | 
 
 ## Project 3: Canada's Disaster Database
