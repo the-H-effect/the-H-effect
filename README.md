@@ -19,7 +19,7 @@ I am open to new opportunities **(Skills: ETL, SQL, PowerBI, & Tableau)**, where
 
 ## [Project 1: Alberta Health Services](https://github.com/the-H-effect/Analysis-Alberta-Health-Services)
 
-## Project 2: Edmonton's Crime Statistics
+## [Project 2: Edmonton's Crime Statistics] (https://github.com/the-H-effect/Analysis-Edmonton-Crime-Statistics)
 
 ## Project 3: Canada's Disaster Database
 
