@@ -17,7 +17,7 @@ Exploring these uniquely different industries is one way to showcase the first s
 I am open to new opportunities **(Skills: ETL, SQL, PowerBI, & Tableau)**, where I can start making meaningful contributions to Canada's economy through Data-Driven Decisions, irrespective of the Business / Industry.
 
 
-## Project 1: Alberta Health Services
+## [Project 1: Alberta Health Services](https://github.com/the-H-effect/Analysis-Alberta-Health-Services)
 
 ## Project 2: Edmonton's Crime Statistics
 
