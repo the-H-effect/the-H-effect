@@ -31,6 +31,8 @@ The Visualizations created explored 3 main teams;
  3. AHS Physcian Specialty.
 
 
+![20221001_225131](https://user-images.githubusercontent.com/114383545/193438460-006a4a53-c2ba-47a3-9a91-f85be25660a5.jpg)
+
 ![20221001_225049](https://user-images.githubusercontent.com/114383545/193438425-b169a828-6345-4cd7-8f24-b77ba68fde79.jpg)
 
 #### Skills & Tools
