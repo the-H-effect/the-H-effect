@@ -17,7 +17,7 @@ I am open to new opportunities **(Skills: ETL, SQL, PowerBI, & Tableau)**, where
 
 ### [Project 1: Alberta Health Services](https://github.com/the-H-effect/Analysis-Alberta-Health-Services)
 
-Alberta Health Services was analyzed for. 
+The full project on the analysis of Alberta Health Services can be found [Here](https://github.com/the-H-effect/Analysis-Alberta-Health-Services).
 
 The following main concepts defined the analysis:
 * _There are 5 zones under Alberta Health Services AHS; South (Zone 1), Calgary (Zone 2), Central (Zone 3), Edmonton (Zone 4) and North (Zone 5)._
