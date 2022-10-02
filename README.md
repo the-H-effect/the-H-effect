@@ -1,6 +1,4 @@
-# Hannah Uwandulu 
-
-### My Data Analytics Project Portfolio
+## My Data Analytics Project Portfolio
 
 As a new Immigrant to Canada, I always have to dash to Google whenever I come across a **concept** that might be a part of the culture for Canadians, but completely strange to me as a newbie. I would be listening to the news or reading an article *(mostly the comments section 😊)*, and people will be talking about a term that I have no clue about. 
 
