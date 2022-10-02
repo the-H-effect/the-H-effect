@@ -20,14 +20,15 @@ I am open to new opportunities **(Skills: ETL, SQL, PowerBI, & Tableau)**, where
 ## [Project 2: Edmonton's Crime Statistics](https://github.com/the-H-effect/Analysis-Edmonton-Crime-Statistics)
 
 
-Edmonton Crime statistics was analyzed for a 10 year period of 2009 to 2019. **Click on title Header for full report.**
+Edmonton Crime statistics was analyzed for a 10 year period of 2009 to 2019. 
+_Full Report [Here](https://github.com/the-H-effect/Analysis-Edmonton-Crime-Statistics)._
 
 The following indicators was analyzed to give valuable trends and insights.
-* Violent crime: Homicide, Sexual assault, Assault and Robbery,
-* Property crime: Break & Enter, Theft of vehicle, Theft from vehicle and Theft over $5,000,
-* Social Disorders,
-* Domestic violence, and 
-* Impaired driving incidents.
+* _Violent crime: Homicide, Sexual assault, Assault and Robbery,_
+* _Property crime: Break & Enter, Theft of vehicle, Theft from vehicle and Theft over $5,000,_
+* _Social Disorders,_
+* _Domestic violence, and_ 
+* _Impaired driving incidents._
 
 Other important indicators and KPIs analyzed are Crime Severity Index (CSI), Weighted Clearance Rate (WCR), Calls received by emergency services, and Complaint/Satisfaction Percentage. 
 
