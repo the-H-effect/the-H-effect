@@ -30,6 +30,9 @@ The following indicators was analyzed to give valuable trends and insights.
 * _Domestic violence, and_ 
 * _Impaired driving incidents._
 
+![20221001_222026](https://user-images.githubusercontent.com/114383545/193437716-c9e7c132-82bf-4de2-8ced-1a111b02d4c0.jpg)
+
+
 Other important indicators and KPIs analyzed are Crime Severity Index (CSI), Weighted Clearance Rate (WCR), Calls received by emergency services, and Complaint/Satisfaction Percentage. 
 
 The visualizations gives valuable insights on Edmonton's crime indicators. All KPIs showed a decrease for the year 2011 - 2014. Analysis like these are useful in providing valuable insights to Edmonton Police Services to help in resource allocation to the different neighborhoods, and to put preventive measures in place to make for a safer city.
