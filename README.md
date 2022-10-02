@@ -15,7 +15,7 @@ Exploring these uniquely different industries is one way to showcase the first s
 I am open to new opportunities **(Skills: ETL, SQL, PowerBI, & Tableau)**, where I can start making meaningful contributions to Canada's economy through Data-Driven Decisions, irrespective of the Business / Industry.
 
 
-### [Project 1: Alberta Health Services](https://github.com/the-H-effect/Analysis-Alberta-Health-Services)
+## [Project 1: Alberta Health Services](https://github.com/the-H-effect/Analysis-Alberta-Health-Services)
 
 The full project on the analysis of Alberta Health Services can be found [Here](https://github.com/the-H-effect/Analysis-Alberta-Health-Services).
 
@@ -30,17 +30,18 @@ The Visualizations created explored 3 main teams;
  2. Top 5 Cause of Death in Alberta, and 
  3. AHS Physcian Specialty.
 
-
 ![20221001_225131](https://user-images.githubusercontent.com/114383545/193438460-006a4a53-c2ba-47a3-9a91-f85be25660a5.jpg)
 
 ![20221001_225049](https://user-images.githubusercontent.com/114383545/193438425-b169a828-6345-4cd7-8f24-b77ba68fde79.jpg)
+
+![20221001_225105](https://user-images.githubusercontent.com/114383545/193438480-89a11911-b7b8-4d7d-b69b-bc7a828f10ee.jpg)
 
 #### Skills & Tools
 PowerQuery | PowerBI | Advanced Excel
 
 
 
-### [Project 2: Edmonton's Crime Statistics](https://github.com/the-H-effect/Analysis-Edmonton-Crime-Statistics)
+## [Project 2: Edmonton's Crime Statistics](https://github.com/the-H-effect/Analysis-Edmonton-Crime-Statistics)
 
 
 Edmonton Crime statistics was analyzed for a 10 year period of 2009 to 2019. 
