@@ -28,7 +28,7 @@ The following main concepts defined the analysis:
 The Visualizations created explored 3 main teams; 
  1. Primary Care Network (PCN) under each AHS Zone, 
  2. Top 5 Cause of Death in Alberta, and 
- 3. AHS Physcian Specialty.
+ 3. AHS Physician Specialty.
 
 ![20221001_225131](https://user-images.githubusercontent.com/114383545/193438460-006a4a53-c2ba-47a3-9a91-f85be25660a5.jpg)
 
