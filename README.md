@@ -17,6 +17,25 @@ I am open to new opportunities **(Skills: ETL, SQL, PowerBI, & Tableau)**, where
 
 ### [Project 1: Alberta Health Services](https://github.com/the-H-effect/Analysis-Alberta-Health-Services)
 
+Alberta Health Services was analyzed for. 
+
+The following main concepts defined the analysis:
+* _There are 5 zones under Alberta Health Services AHS; South (Zone 1), Calgary (Zone 2), Central (Zone 3), Edmonton (Zone 4) and North (Zone 5)._
+* _Each AHS Zone is made up of Primary Care Networks (PCN), and each PCN has a number of Primary Care providers._
+* _AHS has up to 30 Physician Specialty in addition to General Physicians/ Family Physicians._
+
+#### Visualization
+The Visualizations created explored 3 main teams; 
+ 1. Primary Care Network (PCN) under each AHS Zone, 
+ 2. Top 5 Cause of Death in Alberta, and 
+ 3. AHS Physcian Specialty.
+
+
+#### Skills & Tools
+PowerQuery | PowerBI | Advanced Excel
+
+
+
 ### [Project 2: Edmonton's Crime Statistics](https://github.com/the-H-effect/Analysis-Edmonton-Crime-Statistics)
 
 
