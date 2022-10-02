@@ -15,9 +15,9 @@ Exploring these uniquely different industries is one way to showcase the first s
 I am open to new opportunities **(Skills: ETL, SQL, PowerBI, & Tableau)**, where I can start making meaningful contributions to Canada's economy through Data-Driven Decisions, irrespective of the Business / Industry.
 
 
-## [Project 1: Alberta Health Services](https://github.com/the-H-effect/Analysis-Alberta-Health-Services)
+### [Project 1: Alberta Health Services](https://github.com/the-H-effect/Analysis-Alberta-Health-Services)
 
-## [Project 2: Edmonton's Crime Statistics](https://github.com/the-H-effect/Analysis-Edmonton-Crime-Statistics)
+### [Project 2: Edmonton's Crime Statistics](https://github.com/the-H-effect/Analysis-Edmonton-Crime-Statistics)
 
 
 Edmonton Crime statistics was analyzed for a 10 year period of 2009 to 2019. 
@@ -30,12 +30,15 @@ The following indicators was analyzed to give valuable trends and insights.
 * _Domestic violence, and_ 
 * _Impaired driving incidents._
 
-![20221001_222026](https://user-images.githubusercontent.com/114383545/193437716-c9e7c132-82bf-4de2-8ced-1a111b02d4c0.jpg)
+![20221001_222002](https://user-images.githubusercontent.com/114383545/193437747-774cef0a-8724-4a1a-932e-a61ab6379255.jpg)
 
+![20221001_222026](https://user-images.githubusercontent.com/114383545/193437716-c9e7c132-82bf-4de2-8ced-1a111b02d4c0.jpg)
 
 Other important indicators and KPIs analyzed are Crime Severity Index (CSI), Weighted Clearance Rate (WCR), Calls received by emergency services, and Complaint/Satisfaction Percentage. 
 
-The visualizations gives valuable insights on Edmonton's crime indicators. All KPIs showed a decrease for the year 2011 - 2014. Analysis like these are useful in providing valuable insights to Edmonton Police Services to help in resource allocation to the different neighborhoods, and to put preventive measures in place to make for a safer city.
+#### Insights
+* The visualizations gives valuable insights on Edmonton's crime indicators. All KPIs showed a decrease for the year 2011 - 2014. 
+* Analysis like these are useful in providing valuable insights to Edmonton Police Services to help in resource allocation to the different neighborhoods, and to put preventive measures in place to make for a safer city.
 
 #### Skills & Tools
 ETL | Tableau | 
