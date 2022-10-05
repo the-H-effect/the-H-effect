@@ -8,8 +8,6 @@ While I want to showcase my data journey from when I thought data analysis was a
 
 My Data analytics projects covers Important insights and trends in **Canada's** *Health Sector, Transit Systems, Crime Statistics, Population Census, Wildfires, Housing Prices, Oil Sands Mining, Energy prices, Historical Data on Canadian Disasters* and much more. 
 
-**I invite you to check out my repositories on the analysis I carried out on these different subjects.**
-
 Exploring these uniquely different industries is one way to showcase the first step of the **CRISP-DM**, were *Business Understanding is crucial to Data Understanding, Preparation, Modeling, Evaluation and finally Deployment*. 
 
 I am open to new opportunities **(Skills: ETL, SQL, PowerBI, & Tableau)**, where I can start making meaningful contributions to Canada's economy through Data-Driven Decisions, irrespective of the Business / Industry.
