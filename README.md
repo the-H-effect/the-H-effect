@@ -72,3 +72,46 @@ ETL | Tableau |
 ## Project 4: Wildfires in Canada
 
 ## Project 5: Calgary Transit System
+
+## [Project 6:  Analysis of Britain's Railway System](https://github.com/the-H-effect/Analysis-of-Britain-Railway-System) 
+
+British Railway system made up of Private Franchised Train Operating Companies (TOC) was analyzed with a focus on Virgin Trains franchise. _Full Report [Here](https://github.com/the-H-effect/Analysis-of-Britain-Railway-System)._ 
+
+One of the critical stages of any Data analysis project is understanding the available data, and the relationships that exists between the various business concepts. 
+
+Based on Data Understanding the following concepts was analyzed:
+
+* _Train operating companies,_
+* _Their Usage,_
+* _Passenger experience,_
+* _Train performance,_
+* _Finance, and_
+* _Health and safety._
+
+
+The focus of my analysis was on Virgin’s West Coast Route, to identify and show insights in the number of passengers, and the PPM score, and predict passenger growth and train performance based on 10-year historic data.
+
+
+#### Steps
+* Data Extraction, Transformation and Load **(ETL)**
+* Load dataset into SQL Server management studio **(SSMS)**, using SQL Server Import and Export Wizard
+* Create a Dimensional model with Dimensions and Facts using Visual studio integration services **(SSIS)**. 
+
+
+#### Deep Dive
+* The _number of passenger trips_ for West Coast increased from **30 to 37 million** from Year 2011 to 2019
+* The _PPM score_ showed a decrease from **84% to 80%**
+meaning a smaller number of trains were arriving within 10 minutes of their scheduled arrival time.
+* Comparison of Virgin Train (West Coast Route) to other TOCs was carried out through **Excel PivotTable and Pivot Charts**
+* Excel Forecast function was used to **predict** Virgin’s Number of Passengers and PPM score for the next 2 years, using 10-years historic data.
+
+
+#### Skills & Tools
+SQL Server Management Studio| SQL Server Import and Export Wizard 
+
+Visual Studio | SSIS | SSAS 
+
+Excel PivotCharts | Forecast | What-If Analysis 
+
+PowerQuery | PowerBI 
+
