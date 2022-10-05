@@ -98,20 +98,25 @@ The focus of my analysis was on Virgin’s West Coast Route, to identify and sho
 * Create a Dimensional model with Dimensions and Facts using Visual studio integration services **(SSIS)**. 
 
 
+![20221004_214059](https://user-images.githubusercontent.com/114383545/193976989-165767e6-0cf3-4db4-9b54-a58666a3abff.jpg) 
+
+![20221004_213811](https://user-images.githubusercontent.com/114383545/193976895-e30a9132-5d44-4e30-ab2a-be12359cc1b1.jpg)
 #### Deep Dive
 * The _number of passenger trips_ for West Coast increased from **30 to 37 million** from Year 2011 to 2019
-* The _PPM score_ showed a decrease from **84% to 80%**
+* The _PPM score_ showed a decrease from **86% to 80%**
 meaning a smaller number of trains were arriving within 10 minutes of their scheduled arrival time.
 * Comparison of Virgin Train (West Coast Route) to other TOCs was carried out through **Excel PivotTable and Pivot Charts**
 * Excel Forecast function was used to **predict** Virgin’s Number of Passengers and PPM score for the next 2 years, using 10-years historic data.
-
+![20221004_214130](https://user-images.githubusercontent.com/114383545/193977047-53b1d29a-56f4-4567-838e-5e4bdc91b4d7.jpg) 
+![20221004_213946](https://user-images.githubusercontent.com/114383545/193977327-1f00fd16-e760-42c8-ac1d-730e53f0c1a6.jpg) 
+![20221004_213917](https://user-images.githubusercontent.com/114383545/193977414-1380554e-fccf-43db-83c2-862b1c28ab5c.jpg)
 
 #### Skills & Tools
 SQL Server Management Studio| SQL Server Import and Export Wizard 
 
 Visual Studio | SSIS | SSAS 
 
-Excel PivotCharts | Forecast | What-If Analysis 
+Excel PivotTable & PivotCharts | Forecast | What-If Analysis 
 
 PowerQuery | PowerBI 
 
