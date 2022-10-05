@@ -75,10 +75,7 @@ ETL | Tableau |
 
 British Railway system made up of Private Franchised Train Operating Companies (TOC) was analyzed with a focus on Virgin Trains franchise. _Full Report [Here](https://github.com/the-H-effect/Analysis-of-Britain-Railway-System)._ 
 
-One of the critical stages of any Data analysis project is understanding the available data, and the relationships that exists between the various business concepts. 
-
-Based on Data Understanding the following concepts was analyzed:
-
+One of the critical stages of any Data analysis project is understanding the available data, and the relationships that exists between the various business concepts. Based on Data Understanding the following concepts was analyzed:
 * _Train operating companies,_
 * _Their Usage,_
 * _Passenger experience,_
@@ -95,10 +92,9 @@ The focus of my analysis was on Virgin’s West Coast Route, to identify and sho
 
 #### Deep Dive
 * The _number of passenger trips_ for West Coast increased from **30 to 37 million** from Year 2011 to 2019
-* The _PPM score_ showed a decrease from **86% to 80%**
-meaning a smaller number of trains were arriving within 10 minutes of their scheduled arrival time.
-* Comparison of Virgin Train (West Coast Route) to other TOCs was carried out through **Excel PivotTable and Pivot Charts**
-* Excel Forecast function was used to **predict** Virgin’s Number of Passengers and PPM score for the next 2 years, using 10-years historic data.
+* The _PPM score_ showed a decrease from **86% to 80%**.
+* Comparison of Virgin Train (West Coast Route) to other TOCs was carried out through **Excel PivotTable and PivotCharts**
+* **Excel Forecast** function was used to predict Virgin’s Number of Passengers and PPM score for the next 2 years.
 ![20221004_214059](https://user-images.githubusercontent.com/114383545/193976989-165767e6-0cf3-4db4-9b54-a58666a3abff.jpg)
 _**Number of Passenger Trip**_
 
