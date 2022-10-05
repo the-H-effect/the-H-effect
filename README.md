@@ -88,28 +88,34 @@ Based on Data Understanding the following concepts was analyzed:
 * _Finance, and_
 * _Health and safety._
 
-
 The focus of my analysis was on Virgin’s West Coast Route, to identify and show insights in the number of passengers, and the PPM score, and predict passenger growth and train performance based on 10-year historic data.
-
 
 #### Steps
 * Data Extraction, Transformation and Load **(ETL)**
 * Load dataset into SQL Server management studio **(SSMS)**, using SQL Server Import and Export Wizard
 * Create a Dimensional model with Dimensions and Facts using Visual studio integration services **(SSIS)**. 
 
-
-![20221004_214059](https://user-images.githubusercontent.com/114383545/193976989-165767e6-0cf3-4db4-9b54-a58666a3abff.jpg) 
-
-![20221004_213811](https://user-images.githubusercontent.com/114383545/193976895-e30a9132-5d44-4e30-ab2a-be12359cc1b1.jpg)
 #### Deep Dive
 * The _number of passenger trips_ for West Coast increased from **30 to 37 million** from Year 2011 to 2019
 * The _PPM score_ showed a decrease from **86% to 80%**
 meaning a smaller number of trains were arriving within 10 minutes of their scheduled arrival time.
 * Comparison of Virgin Train (West Coast Route) to other TOCs was carried out through **Excel PivotTable and Pivot Charts**
 * Excel Forecast function was used to **predict** Virgin’s Number of Passengers and PPM score for the next 2 years, using 10-years historic data.
+![20221004_214059](https://user-images.githubusercontent.com/114383545/193976989-165767e6-0cf3-4db4-9b54-a58666a3abff.jpg)
+_**Number of Passenger Trip**_
+
+
+![20221004_213811](https://user-images.githubusercontent.com/114383545/193976895-e30a9132-5d44-4e30-ab2a-be12359cc1b1.jpg)
+_**Public Performance Measure Score**_
+
+
 ![20221004_214130](https://user-images.githubusercontent.com/114383545/193977047-53b1d29a-56f4-4567-838e-5e4bdc91b4d7.jpg) 
-![20221004_213946](https://user-images.githubusercontent.com/114383545/193977327-1f00fd16-e760-42c8-ac1d-730e53f0c1a6.jpg) 
-![20221004_213917](https://user-images.githubusercontent.com/114383545/193977414-1380554e-fccf-43db-83c2-862b1c28ab5c.jpg)
+_**PPM Score Comparison**_
+
+
+![20221004_215406](https://user-images.githubusercontent.com/114383545/193978044-ac804a70-3efd-4cbc-8b0b-7273305b42c7.jpg)
+_**Number of Passenger Trips & PPM Score Forecast**_
+
 
 #### Skills & Tools
 SQL Server Management Studio| SQL Server Import and Export Wizard 
