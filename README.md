@@ -73,7 +73,7 @@ ETL | Tableau |
 
 ## Project 5: Calgary Transit System
 
-## [Project 6:  Analysis of Britain's Railway System](https://github.com/the-H-effect/Analysis-of-Britain-Railway-System) 
+## [Project 6:  Britain's Railway System](https://github.com/the-H-effect/Analysis-of-Britain-Railway-System) 
 
 British Railway system made up of Private Franchised Train Operating Companies (TOC) was analyzed with a focus on Virgin Trains franchise. _Full Report [Here](https://github.com/the-H-effect/Analysis-of-Britain-Railway-System)._ 
 
