@@ -1,16 +1,16 @@
 ## My Data Analytics Project Portfolio
 
-As a new Immigrant to Canada, I always have to dash to Google whenever I come across a **concept** that might be a part of the culture for Canadians, but completely strange to me as a newbie. I would be listening to the news or reading an article *(mostly the comments section 😊)*, and people will be talking about a term that I have no clue about. 
+As a new Immigrant to Canada, I always have to dash to Google whenever I come across  **concepts** that might be a part of the culture for Canadians, but completely strange to me as a newbie. I would be listening to the news or reading an article *(mostly the comments section 😊)*, and comments will reference history that I have no clue about. 
 
 **This is the inspiration behind the topics I chose to explore for my Data Analytics Project Portfolio.** 
 
-While I want to showcase my data journey from when I thought data analysis was all about **entering data into excel spreadsheet** to how I am currently building my skills in **ETL and Visualization processes**, I am also interested in researching on trends in Canada, those things that are important to new immigrants that others might just take for granted. 
+While I want to showcase my data journey from when I thought data analysis was all about **entering data into excel spreadsheet** to how I am currently building my skills in **ETL and Visualization processes**, I am also interested in researching on Canada's history, trends, culture, environment,...the vast data all around.... 
 
-My Data analytics projects covers Important insights and trends in **Canada's** *Health Sector, Transit Systems, Crime Statistics, Population Census, Wildfires, Housing Prices, Oil Sands Mining, Energy prices, Historical Data on Canadian Disasters* and much more. 
+My Data analytics projects covers Important insights and trends in *Health Sector, Transit Systems, Crime Statistics, Population Census, Wildfires, Housing Prices, Oil Sands Mining, Energy prices, Historical Data on Canadian Disasters* and much more. 
 
 Exploring these uniquely different industries is one way to showcase the first step of the **CRISP-DM**, were *Business Understanding is crucial to Data Understanding, Preparation, Modeling, Evaluation and finally Deployment*. 
 
-I am open to new opportunities **(Skills: ETL, SQL, PowerBI, & Tableau)**, where I can start making meaningful contributions to Canada's economy through Data-Driven Decisions, irrespective of the Business / Industry.
+I am open to new opportunities **(my skills are: ETL, SQL, PowerBI, & Tableau)**, where I can start making meaningful contributions to Canada's economy through Data-Driven Decisions, irrespective of the Business / Industry.
 
 
 ## [Project 1: Alberta Health Services](https://github.com/the-H-effect/Analysis-Alberta-Health-Services)
