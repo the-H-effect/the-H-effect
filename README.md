@@ -65,13 +65,8 @@ Other important indicators and KPIs analyzed are Crime Severity Index (CSI), Wei
 #### Skills & Tools
 ETL | Tableau | 
 
-## Project 3: Canada's Disaster Database
 
-## Project 4: Wildfires in Canada
-
-## Project 5: Calgary Transit System
-
-## [Project 6:  Britain's Railway System](https://github.com/the-H-effect/Analysis-of-Britain-Railway-System) 
+## [Project 3: Britain's Railway System](https://github.com/the-H-effect/Analysis-of-Britain-Railway-System) 
 
 British Railway system made up of Private Franchised Train Operating Companies (TOC) was analyzed with a focus on Virgin Trains franchise. _Full Report [Here](https://github.com/the-H-effect/Analysis-of-Britain-Railway-System)._ 
 
@@ -120,3 +115,8 @@ Excel PivotTable & PivotCharts | Forecast | What-If Analysis
 
 PowerQuery | PowerBI 
 
+## Project 4: Canada's Disaster Database
+
+## Project 5: Wildfires in Canada
+
+## Project 6: Calgary Transit System
