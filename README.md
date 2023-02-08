@@ -115,7 +115,67 @@ Excel PivotTable & PivotCharts | Forecast | What-If Analysis
 
 PowerQuery | PowerBI 
 
-## Project 4: Canada's Disaster Database
+
+## [Project 4: Canada’s Disaster Database] (https://github.com/the-H-effect/Canada-Disaster-Database)
+
+The full project on Canada’s Disaster Database Analysis can be found [Here](https://github.com/the-H-effect/Canada-Disaster-Database).
+
+#### The Business and The Data
+Disasters can have impact on people, economy, government, and policies. Data on natural disasters can be useful for analysis to support research, develop polices, assess damage, mange risk, inform decision-making, and provide emergency response planning and preparation.
+The following questions will be analyzed, and insights generated to support the answers.
+* _How many natural disasters have occurred since 1900? Organize the disaster by event._
+* _How many fatalities have occurred since 1900? Organize the fatalities by event._
+* _What is the estimated cost of disasters since 1900? Organize the disaster by event and provide a subtotal of the disasters per year._
+* _What percentage of all disasters (100%) were human-made?_
+* _What is the next forecasted natural disaster?_
+* _When is the next forecasted human-made disaster?_
+* _Run 1,000,000 simulations for disasters_
+
+#### Visualization and Insights
+1. Number of Natural disasters since 1900
+
+ **859 Natural disaster events since 1900**
+
+
+![1 natural disatsers](https://user-images.githubusercontent.com/114383545/217646551-4132cecc-cc9b-4b1a-b5cf-0517e5483355.png)
+
+
+2. Number of Fatalities since 1900
+
+  **63,478 Fatalities since 1900**
+  
+  
+![2 fatalities](https://user-images.githubusercontent.com/114383545/217646631-20a6888f-d824-47bb-b9f8-adef50663a58.png)
+
+
+3. Cost of disasters since 1900
+ 
+   **C$25billion since 1900**
+   
+   
+![3 estimated cost](https://user-images.githubusercontent.com/114383545/217646675-4766188c-4ff9-476a-8e6b-f9f51b2cdc7d.png)
+
+
+4. Percentage of disasters that were human caused
+
+    **21.12% was human-made (incident)**
+    
+    
+![4a percent manmade incident](https://user-images.githubusercontent.com/114383545/217646727-2618be47-b1db-4912-81b1-8a730ee7d6b8.png)
+
+
+**Conflict (11.30%) and Technology (88.70%) contributed to the Human-made incident**
+
+
+![4b breakdown of manmade incident](https://user-images.githubusercontent.com/114383545/217646765-eacf34c1-a270-4714-b17a-3207976c66a9.png)
+
+
+
+#### Skills & Tools
+PowerQuery | PowerBI | MS Excel Forecast, MonteCarlo Simulations
+
+
+
 
 ## Project 5: Wildfires in Canada
 
