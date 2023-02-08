@@ -116,7 +116,7 @@ Excel PivotTable & PivotCharts | Forecast | What-If Analysis
 PowerQuery | PowerBI 
 
 
-## [Project 4: Canada’s Disaster Database] (https://github.com/the-H-effect/Canada-Disaster-Database)
+## [Project 4: Canada’s Disaster Database](https://github.com/the-H-effect/Canada-Disaster-Database)
 
 The full project on Canada’s Disaster Database Analysis can be found [Here](https://github.com/the-H-effect/Canada-Disaster-Database).
 
@@ -132,33 +132,25 @@ The following questions will be analyzed, and insights generated to support the 
 * _Run 1,000,000 simulations for disasters_
 
 #### Visualization and Insights
-1. Number of Natural disasters since 1900
-
- **859 Natural disaster events since 1900**
+1. Number of Natural disasters since 1900  ( **859 Natural disaster events since 1900**)
 
 
 ![1 natural disatsers](https://user-images.githubusercontent.com/114383545/217646551-4132cecc-cc9b-4b1a-b5cf-0517e5483355.png)
 
 
-2. Number of Fatalities since 1900
-
-  **63,478 Fatalities since 1900**
+2. Number of Fatalities since 1900   (  **63,478 Fatalities since 1900**)
   
   
 ![2 fatalities](https://user-images.githubusercontent.com/114383545/217646631-20a6888f-d824-47bb-b9f8-adef50663a58.png)
 
 
-3. Cost of disasters since 1900
- 
-   **C$25billion since 1900**
+3. Cost of disasters since 1900  (  **C$25billion since 1900**)
    
    
 ![3 estimated cost](https://user-images.githubusercontent.com/114383545/217646675-4766188c-4ff9-476a-8e6b-f9f51b2cdc7d.png)
 
 
-4. Percentage of disasters that were human caused
-
-    **21.12% was human-made (incident)**
+4. Percentage of disasters that were human caused  (   **21.12% was human-made (incident)**)
     
     
 ![4a percent manmade incident](https://user-images.githubusercontent.com/114383545/217646727-2618be47-b1db-4912-81b1-8a730ee7d6b8.png)
