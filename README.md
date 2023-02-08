@@ -13,7 +13,13 @@ Exploring these uniquely different industries is one way to showcase the first s
 I am open to new opportunities (**my skills are: Data ETL, SQL, PowerBI, Tableau, Visual Studio SSAS & SSIS, Advanced Excel Functions & Formulas**), where I can start making meaningful contributions to Canada's economy through Data-Driven Decisions, irrespective of the Business / Industry.
 
 
-## [Project 1: Alberta Health Services](https://github.com/the-H-effect/Analysis-Alberta-Health-Services)
+## Project 1: Analysis of Canada's Energy Pipelines
+
+## Project 2: Data Mining Study of New York City SQF 
+
+
+
+## [Project 3: Alberta Health Services](https://github.com/the-H-effect/Analysis-Alberta-Health-Services)
 
 The full project on the analysis of Alberta Health Services can be found [Here](https://github.com/the-H-effect/Analysis-Alberta-Health-Services).
 
@@ -39,7 +45,7 @@ PowerQuery | PowerBI | Advanced Excel
 
 
 
-## [Project 2: Edmonton's Crime Statistics](https://github.com/the-H-effect/Analysis-Edmonton-Crime-Statistics)
+## [Project 4: Edmonton's Crime Statistics](https://github.com/the-H-effect/Analysis-Edmonton-Crime-Statistics)
 
 
 Edmonton Crime statistics was analyzed for a 10 year period of 2009 to 2019. 
@@ -66,7 +72,7 @@ Other important indicators and KPIs analyzed are Crime Severity Index (CSI), Wei
 ETL | Tableau | 
 
 
-## [Project 3: Britain's Railway System](https://github.com/the-H-effect/Analysis-of-Britain-Railway-System) 
+## [Project 5: Britain's Railway System](https://github.com/the-H-effect/Analysis-of-Britain-Railway-System) 
 
 British Railway system made up of Private Franchised Train Operating Companies (TOC) was analyzed with a focus on Virgin Trains franchise. _Full Report [Here](https://github.com/the-H-effect/Analysis-of-Britain-Railway-System)._ 
 
@@ -116,7 +122,7 @@ Excel PivotTable & PivotCharts | Forecast | What-If Analysis
 PowerQuery | PowerBI 
 
 
-## [Project 4: Canada’s Disaster Database](https://github.com/the-H-effect/Canada-Disaster-Database)
+## [Project 6: Canada’s Disaster Database](https://github.com/the-H-effect/Canada-Disaster-Database)
 
 The full project on Canada’s Disaster Database Analysis can be found [Here](https://github.com/the-H-effect/Canada-Disaster-Database).
 
@@ -169,6 +175,4 @@ PowerQuery | PowerBI | MS Excel Forecast, MonteCarlo Simulations
 
 
 
-## Project 5: Wildfires in Canada
 
-## Project 6: Calgary Transit System
