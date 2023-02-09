@@ -13,7 +13,7 @@ Exploring these uniquely different industries is one way to showcase the first s
 I am open to new opportunities (**my skills are: Data ETL, SQL, PowerBI, Tableau, Visual Studio SSAS & SSIS, Advanced Excel Functions & Formulas**), where I can start making meaningful contributions to Canada's economy through Data-Driven Decisions, irrespective of the Business / Industry.
 
 
-## Project 1: Analysis of Canada's Energy Pipelines
+## [Project 1: Analysis of Canada's Energy Pipelines](https://github.com/the-H-effect/Canada-Energy-Pipelines)
 
 ## Project 2: Data Mining Study of New York City SQF 
 
