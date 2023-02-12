@@ -19,8 +19,8 @@ This project analyzes 13 years (2008-2021) of data on Canada Energy Regulators C
 
 
 
-## Project 2: Data Mining Study of New York City SQF 
-The data mining study covered association mining, clustering analysis and predictive modelling on the 2012 NYPD Stop, Question and Frisk data. The tools used are: Python scikit, mlxtend, pandas, seaborn, and matplotlib libraries. Full Report Here
+## [Project 2: Data Mining Study of New York City SQF](https://github.com/the-H-effect/NewYork-SQF-DataMining) 
+The data mining study covered association mining, clustering analysis and predictive modelling on the 2012 NYPD Stop, Question and Frisk data. The tools used are: Python scikit, mlxtend, pandas, seaborn, and matplotlib libraries. Full Report [Here](https://github.com/the-H-effect/NewYork-SQF-DataMining) 
 
 
 
