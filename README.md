@@ -1,4 +1,5 @@
 ## My Data Analytics Project Portfolio
+### Projects Completed at Southern Alberta Institute of Technology (SAIT)
 
 As a new Immigrant to Canada, I always have to dash to Google whenever I come across  *a concept or language* that might be a part of the culture for Canadians, but completely strange to me as a newbie. I would be listening to the news or reading an article *(mostly the comments section 😊)*, and comments will reference history that I have no clue about. 
 
